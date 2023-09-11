@@ -1,0 +1,3 @@
+Objective:
+* How to pull request a github project repository
+* How to merge the requested file in that repository
